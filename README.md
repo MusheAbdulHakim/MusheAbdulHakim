@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" background="url('https://loading.io/assets/img/p/background/photon.svg')">
+<p background="url('https://loading.io/assets/img/p/background/photon.svg')">
 <a href="https://dev.to/abdul_mushe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abdul_mushe" height="30" width="40" /></a>
 <a href="https://twitter.com/abdul_mushe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdul_mushe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yahuza-mushe-abdul-hakim-2155351a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yahuza-mushe-abdul-hakim-2155351a9" height="30" width="40" /></a>
