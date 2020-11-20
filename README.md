@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahuza Mushe Abdul-Hakim</h1>
 <h3 align="center">A passionate developer from Ghana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> </p>
+<p style="background-image: url('https://loading.io/assets/img/p/background/photon.svg');" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
 
