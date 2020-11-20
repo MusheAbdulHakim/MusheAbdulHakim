@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheabdulhakim&show_icons=true&locale=en&layout=compact" alt="musheabdulhakim" /></p>
 
-<div class="w-100 ldlz" style="height: 400px; background-image: url(&quot;/assets/img/c/bg/wave.svg&quot;); background-position: center 60%; background-size: cover; opacity: 1; visibility: visible;">
+<div class="w-100 ldlz" style="height: 400px; background-image: url(&quot;https://loading.io/assets/img/c/bg/wave.svg&quot;); background-position: center 60%; background-size: cover; opacity: 1; visibility: visible;">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" /></p></div>
 
