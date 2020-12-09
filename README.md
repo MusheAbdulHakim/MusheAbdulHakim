@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mushe Abdul-Hakim</h1>
 <h3 align="center">A passionate developer from Ghana</h3>
 
-<p background-image="url('http://gph.is/1T3Bw5B')"> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
@@ -13,15 +11,15 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Django,C++ , JAVA And Philosophy**
 
-- 👨‍💻 I teach programming at [http://codewithmushe.tech/](http://codewithmushe.tech/)
+- 👨‍💻 I blog about programming at [http://codewithmushe.tech/](http://codewithmushe.tech/)
 
-- A also do youtube tutorials at [www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ](www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ)
+- I also do youtube tutorials at [www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ](www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ)
 
 - 💬 Ask me about **PHP, Python ,C++, JAVA**
 
 - 📫 Contact Me Via Email at **musheabdulhakim@protonmail.ch**
 
-- ⚡ Fun fact **I user tabs over spaces**
+- ⚡ Fun fact **I enjoy tabs over spaces**
 
 - My daily routine/workflow <p><img width="100" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="workflow gif">
 
