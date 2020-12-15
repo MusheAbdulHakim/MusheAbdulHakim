@@ -15,15 +15,12 @@
 
 - 💬 Ask me about **PHP, Python ,C++, JAVA**
 
-- 📫 Contact Me Via Email at **musheabdulhakim@protonmail.ch**
+- 📫 Contact Me Via Email at **musheabdulhakim@protonmail.ch** or **musheabdulhakim99@gmail.com**
 
-- ⚡ Fun fact **I enjoy tabs over spaces**
+- ⚡ Fun fact **I love science and tech fiction** and **I enjoy tabs over spaces**
 
 - My daily routine/workflow <p><img width="100" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="workflow gif">
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
