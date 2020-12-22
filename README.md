@@ -42,7 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheabdulhakim&show_icons=true&locale=en&layout=compact" alt="musheabdulhakim" /></p>
 
-<p align="right"><img src="https://loading.io/assets/img/p/background/photon.svg" alt="backgroud pic"> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" /></p>
 
