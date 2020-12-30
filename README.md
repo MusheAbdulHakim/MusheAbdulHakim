@@ -44,4 +44,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" /></p>
-<p><a href="https://sourcerer.io/musheabdulhakim"><img src="https://avatars2.githubusercontent.com/u/58814410?v=4" height="50px" width="50px" alt=""/></a></p>
