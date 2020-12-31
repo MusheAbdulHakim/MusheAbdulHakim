@@ -4,14 +4,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> 
  </p>
 <p align="right">
- **I'm a Night 🦉** 
-
+ <h3>m a Night 🦉</h3> 
 ```text
 🌞 Morning    197 commits    [██-----------------------]   7.93% 
 🌆 Daytime    572 commits    [█████--------------------]   23.02% 
 🌃 Evening    597 commits    [██████-------------------]   24.02% 
 🌙 Night      1119 commits   [███████████--------------]   45.03%
-
 ```
 </p>
 <p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
