@@ -1,7 +1,14 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>, I'm Mushe Abdul-Hakim</h1>
-<h3 align="center">A passionate developer from Ghana</h3>
+<h3 align="center">A passionate developer from Ghana And **I'm a Night 🦉** </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> 
+  ```text
+🌞 Morning    16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
+🌆 Daytime    311 commits    ████████░░░░░░░░░░░░░░░░░   35.02% 
+🌃 Evening    387 commits    ███████████░░░░░░░░░░░░░░   43.58% 
+🌙 Night      174 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59%
+
+``` </p>
 
 <p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
 
