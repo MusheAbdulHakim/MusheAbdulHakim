@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> 
  </p>
-<p align="right">
- <h3>m a Night 🦉</h3> 
+<p>
+ <h3>I'm a Night 🦉</h3> 
 ```text
 🌞 Morning    197 commits    [██-----------------------]   7.93% 
 🌆 Daytime    572 commits    [█████--------------------]   23.02% 
