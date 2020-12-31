@@ -2,14 +2,13 @@
 <h3 align="center">A passionate developer from Ghana And **I'm a Night 🦉** </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musheabdulhakim" alt="musheabdulhakim" /></a> 
-  ```text
+ </p>
+<p align="right">
 🌞 Morning    16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
 🌆 Daytime    311 commits    ████████░░░░░░░░░░░░░░░░░   35.02% 
 🌃 Evening    387 commits    ███████████░░░░░░░░░░░░░░   43.58% 
 🌙 Night      174 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59%
-
-``` </p>
-
+</p>
 <p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
 
 - 🔭 I’m currently working on [Tailorshop management system](https://github.com/MusheAbdulHakim/TailorShop-Management-System.git)
