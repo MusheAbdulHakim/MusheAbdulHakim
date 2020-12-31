@@ -13,7 +13,7 @@
 
 - I also do youtube tutorials at [www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ](www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ)
 
-- 💬 Ask me about **PHP, Python ,C++, JAVA**
+- 💬 Ask me about **PHP, Python **
 
 - 📫 Contact Me Via Email at **musheabdulhakim@protonmail.ch** or **musheabdulhakim99@gmail.com**
 
