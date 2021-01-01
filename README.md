@@ -54,36 +54,5 @@
 </details>
 <br><br>
 
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    197 commits    [██-----------------------]   7.93% 
-🌆 Daytime    572 commits    [█████--------------------]   23.02% 
-🌃 Evening    597 commits    [██████-------------------]   24.02% 
-🌙 Night      1119 commits   [███████████--------------]   45.03%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       402 commits    [████---------------------]   16.18% 
-Tuesday      357 commits    [███----------------------]   14.37% 
-Wednesday    360 commits    [███----------------------]   14.49% 
-Thursday     318 commits    [███----------------------]   12.8% 
-Friday       348 commits    [███----------------------]   14.0% 
-Saturday     311 commits    [███----------------------]   12.52% 
-Sunday       389 commits    [████---------------------]   15.65%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
 
