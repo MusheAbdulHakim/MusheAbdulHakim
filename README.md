@@ -57,5 +57,5 @@
 
 <details>
  <summary><b>My Coding Activity</b></summary>
- <p><figure><embed src="https://wakatime.com/share/@e5387570-f4a6-4991-a3f9-99a9fb01a305/f2948219-96fd-4acb-bcf3-98106d1ffda7.svg"></embed></figure></p>
+ <p><figure><img src="https://wakatime.com/share/@e5387570-f4a6-4991-a3f9-99a9fb01a305/f2948219-96fd-4acb-bcf3-98106d1ffda7.svg"></figure></p>
 </details>
