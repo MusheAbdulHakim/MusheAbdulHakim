@@ -83,7 +83,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 <p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
 
-- 🔭 I’m currently working on [Tailorshop management system](https://github.com/MusheAbdulHakim/TailorShop-Management-System.git)
+- 🔭 I’m currently working on [..........](...........)
 
 - 🌱 I’m currently learning **Ethical Hacking, Django,C++ , JAVA And Philosophy**
 
