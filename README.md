@@ -50,14 +50,13 @@ Sunday       33 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Accra
 
 💬 Programming Languages: 
-PHP                      4 hrs 21 mins       █████████████████████████   99.96% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             4 hrs 21 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 21 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
