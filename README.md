@@ -100,7 +100,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 <a href="https://instagram.com/mushe_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mushe_code" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mushe code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mushe code" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/musheabdulhakim1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="musheabdulhakim1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="musheabdulhakim99" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="musheabdulhakim99" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@musheabdulhakim99" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="musheabdulhakim99" height="30" width="40" /></a>
