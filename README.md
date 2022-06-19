@@ -114,7 +114,7 @@ HTML                     3 repos             ██░░░░░░░░░�
   <a href="https://github.com/musheabdulhakim" class="rich-diff-level-one">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheabdulhakim&show_icons=true&locale=en&layout=compact" alt="musheabdulhakim" />
   </a>
-</p>
+</p><br><br>
 <br><br>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" /></p>
 <br><br>
