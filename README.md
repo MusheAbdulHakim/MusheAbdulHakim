@@ -116,9 +116,9 @@ HTML                     3 repos             ██░░░░░░░░░�
   </a>
 </p>
 <br><br>
- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" /></p>
+ <p>&nbsp;<img align="right" width="50" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" /></p>
 <br><br>
 
 
- <h3><b>My Coding Activity</b></h3>
- <p><figure><img src="https://wakatime.com/share/@e5387570-f4a6-4991-a3f9-99a9fb01a305/6a40af37-2f88-4d9d-9898-c580637bedc6.svg"></figure></p>
+ <h3 align="left"><b>My Coding Activity</b></h3>
+ <p align="left"><figure><img src="https://wakatime.com/share/@e5387570-f4a6-4991-a3f9-99a9fb01a305/6a40af37-2f88-4d9d-9898-c580637bedc6.svg"></figure></p>
