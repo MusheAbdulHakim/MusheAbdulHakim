@@ -14,7 +14,7 @@
  <img width="40%" height="40%" src="./usdt.jpg">
  <p>
   Address: 0x678cec82cc08ef2076b78fe9221c0d7109f97a54
-  Network: BEP20
+  <br>Network: BEP20
  </p>
  <h4>Credit Card / Mobile Money<h4>
  <p>Link: https://paystack.com/pay/musheabdulhakim</p>
