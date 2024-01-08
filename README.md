@@ -91,7 +91,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 - 📫 Contact Me Via Email at **musheabdulhakim@protonmail.ch** or **musheabdulhakim99@gmail.com**
 
-- ⚡ Fun fact **I love science and tech fiction** and **I use tabs over spaces :)**
+- ⚡ Fun fact **I love science and tech fiction** and **I prefer tabs over spaces :)**
 
 
 <h3 align="left">Connect with me:</h3>
