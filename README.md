@@ -83,7 +83,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 - 🌱 I’m currently learning **Ethical Hacking, Django,C++ , JAVA And Philosophy**
 
-- 👨‍💻 I blog about programming at [[http://codewithmushe.tech/](https://musheabdulhakim.dev)](https://musheabdulhakim.dev)
+- 👨‍💻 I blog about programming at [[https://musheabdulhakim.dev](https://musheabdulhakim.dev)](https://musheabdulhakim.dev)
 
 - I also do youtube tutorials at [www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ](www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ)
 
