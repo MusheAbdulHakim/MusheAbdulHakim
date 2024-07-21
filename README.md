@@ -114,20 +114,16 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 <br><br>
  <p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" />
- 
+    <div>
+      <img height="230px" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" />
+       <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheabdulhakim&show_icons=true&locale=en&layout=compact" alt="musheabdulhakim" />
+    </div>
  </p>
 
 
-<p>
-  <a href="https://github.com/musheabdulhakim" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musheabdulhakim&show_icons=true&locale=en&layout=compact" alt="musheabdulhakim" />
-  </a>
-</p>
-
 
  <h3><b>My Coding Activity</b></h3>
- <p align="left">
+ <p>
     <figure><img src="https://wakatime.com/share/@e5387570-f4a6-4991-a3f9-99a9fb01a305/6a40af37-2f88-4d9d-9898-c580637bedc6.svg">
     </figure>
  </p>
