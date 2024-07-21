@@ -78,7 +78,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 <p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
 
 
-- 🌱 I’m currently learning **Ethical Hacking, Django,C++ , JAVA And Philosophy**
+- 🌱 I’m currently learning **Philosophy**
 
 - 👨‍💻 I blog about programming at [[https://musheabdulhakim.dev](https://musheabdulhakim.dev)](https://musheabdulhakim.dev)
 
@@ -86,7 +86,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 - 💬 Ask me about **PHP, Python , Java**
 
-- 📫 Contact Me Via Email at **musheabdulhakim@protonmail.ch** or **musheabdulhakim99@gmail.com**
+- 📫 Contact Me Via Email at **musheabdulhakim99@gmail.com**
 
 - ⚡ Fun fact **I love science and tech fiction** and **I prefer tabs over spaces :)**
 
