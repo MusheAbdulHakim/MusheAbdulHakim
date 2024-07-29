@@ -103,24 +103,16 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 <a href="https://www.leetcode.com/musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="musheabdulhakim99" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@musheabdulhakim99" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="musheabdulhakim99" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank">  </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://icongr.am/devicon/cplusplus-original.svg?size=125&color=141414" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icongr.am/devicon/django-original.svg?size=125&color=141414" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=currentColor" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://icongr.am/devicon/laravel-plain.svg?size=125&color=c62f2f" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://icongr.am/devicon/linux-original.svg?size=125&color=141414" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=125&color=141414" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=currentColor" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://icongr.am/devicon/php-original.svg?size=125&color=141414" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://icongr.am/devicon/python-original.svg?size=125&color=141414" alt="python" width="40" height="40"/> </a> </p>
-<br><br>
+
 <h3> 🙋‍♀️ <b>My Github Stats</b>: </h3>
 
 
-<br><br>
- <p>
-    <div>
-      <img height="230px" src="https://github-readme-stats.vercel.app/api?username=musheabdulhakim&show_icons=true&locale=en" alt="musheabdulhakim" />
-       <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs?username=musheabdulhakim&show_icons=true&locale=en&layout=compact" alt="musheabdulhakim" />
-    </div>
- </p>
-
-
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musheabdulhakim&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=musheabdulhakim&theme=2077) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musheabdulhakim&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musheabdulhakim&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=musheabdulhakim&theme=2077&utcOffset=+0)
 
  <h3><b>My Coding Activity</b></h3>
  <p>
