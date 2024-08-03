@@ -99,10 +99,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 <a href="https://stackoverflow.com/users/12954798/yahuza-mushe-abdul-hakim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12954798/yahuza-mushe-abdul-hakim" height="30" width="40" /></a>
 <a href="https://instagram.com/mushe_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mushe_code" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mushecode4419" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mushe code" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/musheabdulhakim1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="musheabdulhakim1" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="musheabdulhakim99" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@musheabdulhakim99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@musheabdulhakim99" height="30" width="40" /></a>
 
 
 <h3> 🙋‍♀️ <b>My Github Stats</b>: </h3>
