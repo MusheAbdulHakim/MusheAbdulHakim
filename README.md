@@ -82,7 +82,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 - 👨‍💻 I blog about programming at [[https://musheabdulhakim.dev](https://musheabdulhakim.dev)](https://musheabdulhakim.dev)
 
-- I also do youtube tutorials at [www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ](www.youtube.com/channel/UCwAdoup1idKMK6b-vo7kZzQ)
+- I also occassionally post videos on my youtube channel: [@mushecode4419](https://www.youtube.com/@mushecode4419)
 
 - 💬 Ask me about **PHP, Python , Java**
 
