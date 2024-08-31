@@ -82,7 +82,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 - 👨‍💻 I blog about programming at [[https://musheabdulhakim.dev](https://musheabdulhakim.dev)](https://musheabdulhakim.dev)
 
-- I also occassionally post videos on my youtube channel: [@mushecode4419](https://www.youtube.com/@mushecode4419)
+- I also occassionally post videos on my youtube channel: [@mushecode4419](https://www.youtube.com/@mushecode)
 
 - 💬 Ask me about **PHP, Python , Java**
 
@@ -98,7 +98,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 <a href="https://linkedin.com/in/yahuza-mushe-abdul-hakim-2155351a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yahuza-mushe-abdul-hakim-2155351a9" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12954798/yahuza-mushe-abdul-hakim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12954798/yahuza-mushe-abdul-hakim" height="30" width="40" /></a>
 <a href="https://instagram.com/mushe_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mushe_code" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mushecode4419" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mushe code" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mushecode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mushe code" height="30" width="40" /></a>
 
 
 
