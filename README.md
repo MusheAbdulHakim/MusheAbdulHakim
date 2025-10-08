@@ -5,9 +5,9 @@
  </p>
  
 <!--START_SECTION:waka-->
-
+![](https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
-
+![My Profile Views](https://komarev.com/ghpvc/?username=MusheAbdulHakim&color=green)
 
 **🐱 My Github Data** 
 
@@ -75,20 +75,16 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="left"> <a href="https://twitter.com/abdul_mushe" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_mushe?logo=twitter&style=for-the-badge" alt="abdul_mushe" /></a> </p>
 
-
-- 🌱 I’m currently learning **Philosophy**
-
-- 👨‍💻 I blog about programming at [[https://musheabdulhakim.dev](https://musheabdulhakim.dev)](https://musheabdulhakim.dev)
+- 👨‍💻 I blog about programming at ![https://musheabdulhakim.dev](https://musheabdulhakim.dev)
 
 - I also occassionally post videos on my youtube channel: [@mushecode4419](https://www.youtube.com/@mushecode)
 
-- 💬 Ask me about **PHP, Python , Java**
+- 💬 Ask me about **PHP and Laravel**
 
 - 📫 Contact Me Via Email at **musheabdulhakim99@gmail.com**
 
-- ⚡ Fun fact **I love science and tech fiction** and **I prefer tabs over spaces :)**
+- ⚡ Fun fact **I prefer tabs over spaces :)**
 
 
 <h3 align="left">Connect with me:</h3>
